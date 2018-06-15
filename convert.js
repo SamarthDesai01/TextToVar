@@ -1,7 +1,7 @@
 const readline = require('readline');
 const fs = require('fs');
 
-const variableName = 'test';
+const variableName = 'nouns';
 const variableType = 'const';
 const outputFileName = 'output.js';
 const inputFileName = 'nounlist.txt';
